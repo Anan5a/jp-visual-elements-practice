@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Visual Elements</string>
+    <string name="hello_text">Hello there from string resources!</string>
+
+    <string-array name="dogs">
+        <item>d1_lab</item>
+        <item>d20_shih_tzu</item>
+        <item>d18_schnauzer</item>
+        <item>d19_spaniel</item>
+        <item>d17_australian_shepherd</item>
+        <item>d16_doberman</item>
+        <item>d15_corgi</item>
+        <item>d14_great_dane</item>
+        <item>d13_dachsund</item>
+        <item>d12_husky</item>
+        <item>d11_boxer</item>
+        <item>d10_pointer</item>
+    </string-array>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet. Qui nihil eligendi sit illum pariatur ut quia sint? Et delectus quod est commodi nostrum est corrupti velit qui atque nobis At tenetur magnam sed voluptates eaque. Et eveniet itaque est minus nisi est natus iusto et esse eligendi sed tenetur debitis. Non libero reiciendis ut natus aliquam in tempora voluptas sit beatae delectus ad minus autem? Est ipsum illum hic temporibus sunt est dolores tempora aut quidem odio. Non quam quis et assumenda corrupti hic quisquam dolores est adipisci necessitatibus. Aut illum ratione sed voluptatem deserunt sed dolorem doloremque ut odit quaerat. Hic perferendis officiis rem obcaecati dolorem non sunt suscipit ut quae quasi non dolorum ratione eos voluptas internos! Ut incidunt vero et rerum magnam et consequuntur reprehenderit qui consectetur quos est minima blanditiis id dolor corporis est excepturi corporis. Cum dolor mollitia aut perspiciatis quidem in accusamus obcaecati quo atque omnis ut deleniti sequi et earum iste aut perferendis consequatur. Qui velit ipsa aut fuga reiciendis non nulla minus ut consequatur blanditiis aut tenetur quod non laudantium repudiandae aut omnis maxime.
+        At ducimus tenetur in possimus assumenda a repellendus incidunt sed sint sint est quae rerum hic aliquid expedita. In error inventore non iure dolorum non quaerat minima aut voluptate quis. Et internos voluptatum qui quisquam tempore qui sunt quisquam. Sit temporibus voluptates id rerum molestiae et ipsa omnis et magnam repudiandae ut rerum aliquid qui distinctio voluptatem id veniam quod. Et voluptatibus aliquid est laboriosam soluta et amet porro et velit provident rem voluptatem consequatur. Et doloremque fuga eum rerum odio aut consequatur error quo cumque placeat aut molestiae sint. A blanditiis quia hic consequatur alias ut omnis velit in Quis dolor? Ex quos ipsam ad nemo distinctio id natus dolorem et ratione fugiat. Ex ducimus consequatur sed excepturi itaque non deleniti harum aut rerum impedit. Ad consequatur praesentium sit consequatur ullam qui amet culpa ut tenetur totam. Ea enim ducimus et suscipit odio est dolor rerum. Aut cumque voluptas et deserunt nihil ut dolorem culpa 33 asperiores maxime ut ducimus officiis et pariatur mollitia hic perspiciatis velit. Eos voluptatem quis eos numquam consequuntur a totam eius eum consequatur sunt 33 inventore omnis. Sit sunt mollitia est velit ratione id placeat amet qui facere voluptas qui provident animi hic iusto repellendus aut quod iure. Sed doloremque sint ut quod provident ut galisum voluptatem ut omnis dignissimos. Est quas mollitia qui quod cupiditate et culpa quia. Est reprehenderit eveniet est natus odit est aperiam dolores est consequatur ullam in odio atque ut beatae necessitatibus vel dolorum autem. Et dolorum inventore eum odit voluptas eum beatae nihil eum dolorem minima. Qui facere quia est voluptatibus quaerat sed nesciunt excepturi. Et quos voluptatibus in placeat doloribus qui quae magnam sed ullam ducimus aut maxime iusto. Et ipsum molestiae et natus quibusdam est cupiditate vero eos autem natus. Id reprehenderit ipsum sit velit sequi quo reiciendis eligendi aut dolores beatae. Nam tempora deleniti ab quibusdam commodi qui unde dicta qui nemo modi eum eaque consequatur. Est quia sunt ad voluptatibus dolorem id tenetur dolore. Aut laudantium nobis non exercitationem explicabo ut labore nulla At explicabo esse a minus voluptatum hic minus odit non praesentium voluptatem.
+ </string>
+
+</resources>
